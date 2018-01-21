@@ -1,0 +1,18 @@
+
+.container-fluid {
+    background: blue;
+  }
+
+ .navbar-default .navbar-brand{
+   color:white;
+   font-family: 'Righteous', cursive;
+ }
+
+ .card{
+   font-family: 'Righteous', cursive;
+   color:red;
+ }
+
+.map{
+  display: inline-block;
+}
