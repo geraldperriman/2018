@@ -13,6 +13,18 @@
    color:red;
  }
 
-.map{
-  display: inline-block;
+ #A{
+   font-family: 'Permanent Marker', cursive;
+   color:orange;
+   font-size: 2em;
+ }
+
+ .list-group{
+   display:inline-block;
+   float: right;
+   }
+
+.rail{
+  margin-top: -670px;
+  
 }
