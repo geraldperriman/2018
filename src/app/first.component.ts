@@ -9,7 +9,6 @@ export class FirstComponent {
   title = 'app';
 
   ngOnInit() {
-    this.peopleService
-        .getAll()
-        .subscribe(p => this.people = p);
+
+}
 }
